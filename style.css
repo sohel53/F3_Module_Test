@@ -72,4 +72,16 @@ button[type="submit"]:hover {
 #search-history li:hover {
     text-decoration: underline;
 }
-  
+
+#current-image-container {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    /* background-color: rgb(89, 84, 84);
+    color: white;   */
+}
+/* #current-image {
+    height: 40px;
+    width: 40px;
+} */
